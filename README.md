@@ -3,7 +3,7 @@ This project aimed to predict the likelihood of a person having diabetes based o
 
 The project began by exploring the dataset, which involved checking for missing values, outliers, and distribution of variables. Data preprocessing techniques were employed, such as scaling and encoding categorical variables, before building the models.
 This is the correlation table:
-![Alt Text](https://github.com/IvanCastillero/Diabetes-prediction-model-Python/blob/main/confusion%20matrix%20test.png)
+![Alt Text](https://github.com/IvanCastillero/Diabetes-prediction-model-Python/blob/main/correlacion.png)
 
 Two models were trained on the data - logistic regression and random forest classifier. The logistic regression model achieved an accuracy of 0.79 on the training set and 0.74 on the test set. Meanwhile, the random forest classifier model achieved an accuracy of 0.85 on the training set and 0.72 on the test set. The random forest classifier model was then further optimized using grid search cross-validation.
 
